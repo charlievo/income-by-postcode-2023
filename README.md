@@ -2,7 +2,7 @@
 
 A geographic income analysis of Australia using ATO taxation statistics, joined with ABS socio-economic data and postcode geography. Built as part of a data analytics portfolio targeting roles in tax/data analysis.
 
-**Live dashboard:** [Tableau Public Story](#) — interactive map, key findings, state breakdowns, and tax/debt analysis across four pages.
+**Live dashboard:** [Tableau Public Story](https://public.tableau.com/views/WhatAustraliaEarns/WhatAustraliaEarns?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) — interactive map, key findings, state breakdowns, and tax/debt analysis across four pages.
 
 ## What this is
 
